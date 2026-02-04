@@ -6,4 +6,4 @@ controls:
 software:
 team_settings:
   secrets:
-    - secret: "DEDICATED_DEVICES_ENROLL_SECRET" # Learn how: https://fleetdm.com/guides/secrets-in-scripts-and-configuration-profiles#gitops
+    - secret: "FLEET_DEDICATED_DEVICES_ENROLL_SECRET" # Learn how: https://fleetdm.com/guides/secrets-in-scripts-and-configuration-profiles#gitops

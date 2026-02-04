@@ -6,4 +6,4 @@ controls:
 software:
 team_settings:
   secrets:
-    - secret: "FLEET_EMPLOYEE_ISSUED_ENROLL_SECRET" # Learn how: https://fleetdm.com/guides/secrets-in-scripts-and-configuration-profiles#gitops
+    - secret: "$FLEET_EMPLOYEE_ISSUED_ENROLL_SECRET" # Learn how: https://fleetdm.com/guides/secrets-in-scripts-and-configuration-profiles#gitops
